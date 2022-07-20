@@ -1,0 +1,22 @@
+{
+  "name": "@kaikubad23/component-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "eslint ./lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kaikubad23/component-loader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaikubad23/component-loader/issues"
+  },
+  "homepage": "https://github.com/kaikubad23/component-loader#readme"
+}
