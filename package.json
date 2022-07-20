@@ -1,6 +1,6 @@
 {
   "name": "@kaikubad23/component-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "./lib/index.js",
   "directories": {
@@ -17,6 +17,9 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/kaikubad23/component-loader/issues"
+  },
+"publishConfig": {
+    "registry": "https://npm.pkg.github.com/kaikubad23"
   },
   "homepage": "https://github.com/kaikubad23/component-loader#readme"
 }
